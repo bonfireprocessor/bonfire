@@ -1,0 +1,6 @@
+[submodule "bonfire-soc"]
+	path = bonfire-soc
+	url = git@github.com:bonfireprocessor/bonfire-soc.git
+[submodule "bonfire-cpu"]
+	path = bonfire-cpu
+	url = git@github.com:bonfireprocessor/bonfire-cpu.git

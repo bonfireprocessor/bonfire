@@ -1,12 +1,12 @@
 [submodule "bonfire-cpu"]
 	path = bonfire-cpu
-	url = git@github.com:bonfireprocessor/bonfire-cpu.git
+	url = ../bonfire-cpu.git
 [submodule "bonfire-dcache"]
 	path = bonfire-dcache
-	url = git@github.com:bonfireprocessor/bonfire-dcache.git
+	url = ../bonfire-dcache.git
 [submodule "bonfire-soc"]
 	path = bonfire-soc
-	url = git@github.com:bonfireprocessor/bonfire-soc.git
+	url = ../bonfire-soc.git
 [submodule "bonfire-util"]
 	path = bonfire-util
-	url = git@github.com:bonfireprocessor/bonfire-util.git
+	url = ../bonfire-util.git

@@ -10,3 +10,9 @@
 [submodule "bonfire-util"]
 	path = bonfire-util
 	url = ../bonfire-util.git
+[submodule "bonfire-software"]
+	path = bonfire-software
+	url = ../bonfire-software
+[submodule "bonfire-soc-io"]
+	path = bonfire-soc-io
+	url = ../bonfire-soc-io.git

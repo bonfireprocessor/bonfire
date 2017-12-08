@@ -16,3 +16,6 @@
 [submodule "bonfire-soc-io"]
 	path = bonfire-soc-io
 	url = ../bonfire-soc-io.git
+[submodule "bonfire-gpio"]
+	path = bonfire-gpio
+	url = ../bonfire-gpio.git

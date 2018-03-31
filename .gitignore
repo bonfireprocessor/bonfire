@@ -1,0 +1,3 @@
+/vivado/tb_cpu_core/*.log
+/vivado/tb_cpu_core/tb_cpu_core.*
+*.wcfg

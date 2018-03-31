@@ -19,3 +19,6 @@
 [submodule "bonfire-gpio"]
 	path = bonfire-gpio
 	url = ../bonfire-gpio.git
+[submodule "bonfire_arty_a7_full"]
+	path = bonfire_arty_a7_full
+	url = ../bonfire_arty_a7_full.git

@@ -22,3 +22,9 @@
 [submodule "bonfire_arty_a7_full"]
 	path = bonfire_arty_a7_full
 	url = ../bonfire_arty_a7_full.git
+[submodule "bonfire_axi"]
+	path = bonfire_axi
+	url = ../bonfire_axi.git
+[submodule "bonfire-axi4l2wb"]
+	path = bonfire-axi4l2wb
+	url = ../bonfire-axi4l2wb

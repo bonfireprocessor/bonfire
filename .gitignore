@@ -2,3 +2,6 @@
 *.cmd
 *.log
 /vivado/*
+/bonfire-basic-soc/
+/fusesoc2017.2.conf
+/xelab.pb

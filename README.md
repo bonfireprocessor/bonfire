@@ -25,7 +25,7 @@ If you own a Digilent [Arty A35 Board](https://store.digilentinc.com/arty-a7-art
 1. Open the Vivado Hardware Manager (it is available in the qick start pane)
 1. Connect to the target board (the Arty, it is named xc7a35t_0 in the HW Manager screen)
 1.  In the Hardware Manager window, under hardware right click your device and click Add Configuration Memory Devices
-1. window will pop up. Search for “Micron” and select mt25ql128-spi-x1_x2_x4. Click OK on the next window asking if you want to program the configuration memory device.
+1. A window will pop up. Search for “Micron” and select **mt25ql128-spi-x1_x2_x4**. Click OK on the next window asking if you want to program the configuration memory device.
 2. In the following dialog box select the unpzipped .mcs file from step 1 as "Confiugration file". Start programming
 
 ##### Connect with a terminal program to the Board

@@ -28,3 +28,6 @@
 [submodule "bonfire-axi4l2wb"]
 	path = bonfire-axi4l2wb
 	url = ../bonfire-axi4l2wb
+[submodule "bonfire-spi"]
+	path = bonfire-spi
+	url = ../bonfire-spi

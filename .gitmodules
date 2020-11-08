@@ -31,3 +31,6 @@
 [submodule "bonfire-spi"]
 	path = bonfire-spi
 	url = ../bonfire-spi
+[submodule "bonfire-basic-soc"]
+	path = bonfire-basic-soc
+	url = ../bonfire-basic-soc
